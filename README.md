@@ -1,4 +1,4 @@
-This is a [Finance-Tracker](https://finance-liart.vercel.app/) project written by [Nextjs14](https://nextjs.org/) and React18.
+[Finance-Tracker](https://finance-tracker-three-zeta.vercel.app/) project written by Divy pratap using [Nextjs14](https://nextjs.org/) and React18.
 
 # Main Features
 
